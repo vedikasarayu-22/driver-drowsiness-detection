@@ -96,11 +96,11 @@ python app.py
 
 ### Eye Tracking
 
-(Add screenshot)
+![Eye Tracking](screenshots/drowsy.jpg)
 
 ### Drowsiness Alert
 
-(Add screenshot)
+![Drowsiness Alert](screenshots/drowsy_20260521_124321.jpg)
 
 ---
 
